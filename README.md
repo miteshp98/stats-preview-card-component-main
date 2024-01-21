@@ -2,6 +2,8 @@
 
 This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+![mobile](https://github.com/miteshp98/stats-preview-card-component-main/assets/145320555/edd25aaf-fbab-43c0-bb98-24b03d938103)
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -26,7 +28,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![htmlcode](https://github.com/miteshp98/stats-preview-card-component-main/assets/145320555/6d7b773e-f82a-49c2-b514-1fb70eb4ef62)
+
+![csscode](https://github.com/miteshp98/stats-preview-card-component-main/assets/145320555/a020846d-79b0-4779-a1a0-4287bc3c5a2c)
 
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
@@ -48,6 +52,7 @@ Users should be able to:
 
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
+
 
 
 ### Useful resources
